@@ -10,10 +10,6 @@ __pycache__/
 venv/
 .venv/
 
-# ML Models (too large for git)
-backend/models/*.pkl
-backend/models/*.joblib
-
 # Backend data folder (raw datasets)
 backend/data/
 
