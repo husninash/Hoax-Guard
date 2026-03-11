@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+scikit-learn==1.6.1
+pandas
+numpy
+supabase
+openai
+pydantic
+tiktoken
+duckduckgo-search
+tavily-python
+google-genai

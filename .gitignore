@@ -1,0 +1,38 @@
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# ML Models (too large for git)
+backend/models/*.pkl
+backend/models/*.joblib
+
+# Backend data folder (raw datasets)
+backend/data/
+
+# Node.js
+node_modules/
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Verification scripts
+backend/verify_models.py
+
+# Gemini artifacts
+.gemini/
